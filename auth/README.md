@@ -4,4 +4,4 @@ includes:
 
 - role
 - permission
-- configure security(formLogin, formLogin, logout )
+- configure security(formLogin, rememberMe, logout )
