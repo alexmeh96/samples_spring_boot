@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Теремок",
+    "address": "Санкт-Петербург, 1-я Красноармейская улица, 9",
+    "img": "https://www.delivery-club.ru/naturmort/5e843fa57254d_480x300.jpg",
+    "href_page": "https://www.delivery-club.ru/srv/Tjerjemok_spb",
+    "rating": 4.7,
+    "describe": "",
+    "kitchen": "Русская, Обеды, Супы",
+    "locate": [
+      59.916315,
+      30.313802
+    ],
+    "kitchens": [
+      "русская",
+      "обеды",
+      "супы"
+    ],
+    "meals": [
+      {
+        "name": "Блин с шоколадным кремом",
+        "img": "https://www.delivery-club.ru/media/cms/relation_product/35808/328492803_m650.jpg",
+        "type": "блины сладкие",
+        "restaurant": "Теремок",
+        "price": 135,
+        "info1": "166 г",
+        "info2": "0 мл",
+        "info3": "543 ккал",
+        "description": "Блин с шоколадным кремом.",
+        "category": "блины",
+        "mass": 166,
+        "kkal": 543,
+        "prot": 19,
+        "fat": 29,
+        "carb": 55
+      },
+      {
+        "name": "Блин Сгущенка",
+        "img": "https://www.delivery-club.ru/media/cms/relation_product/35808/328492804_m650.jpg",
+        "type": "блины сладкие",
+        "restaurant": "Теремок",
+        "price": 136,
+        "info1": "176 г",
+        "info2": "0 мл",
+        "info3": "580 ккал",
+        "description": "Блин со сгущенным молоком.",
+        "category": "блины",
+        "mass": 176,
+        "kkal": 580,
+        "prot": 22,
+        "fat": 52,
+        "carb": 17
+      },
+      {
+        "name": "Блин яблочно-карамельный",
+        "img": "https://www.delivery-club.ru/media/cms/relation_product/35808/328493491_m650.jpg",
+        "type": "блины сладкие",
+        "restaurant": "Теремок",
+        "price": 178,
+        "info1": "236 г",
+        "info2": "0 мл",
+        "info3": "645 ккал",
+        "description": "Блин с карамельным кремом и начинкой «Яблоко».",
+        "category": "блины",
+        "mass": 236,
+        "kkal": 645,
+        "prot": 19,
+        "fat": 33,
+        "carb": 47
+      },
+      {
+        "name": "Блинчик с вишневым вареньем",
+        "img": "https://www.delivery-club.ru/media/cms/relation_product/35808/328493179_m650.jpg",
+        "type": "блины сладкие",
+        "restaurant": "Теремок",
+        "price": 80,
+        "info1": "126 г",
+        "info2": "0 мл",
+        "info3": "368 ккал",
+        "description": "Блинчик с вишневым вареньем.",
+        "category": "блины",
+        "mass": 126,
+        "kkal": 368,
+        "prot": 9,
+        "fat": 24,
+        "carb": 48
+      },
+      {
+        "name": "Блинчик с клубничным вареньем",
+        "img": "https://www.delivery-club.ru/media/cms/relation_product/35808/328492816_m650.jpg",
+        "type": "блины сладкие",
+        "restaurant": "Теремок",
+        "price": 80,
+        "info1": "116 г",
+        "info2": "0 мл",
+        "info3": "353 ккал",
+        "description": "Блинчик с клубничным вареньем.",
+        "category": "блины",
+        "mass": 116,
+        "kkal": 353,
+        "prot": 16,
+        "fat": 49,
+        "carb": 54
+      }
+    ]
+  }
+]
